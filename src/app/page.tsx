@@ -85,10 +85,10 @@ export default function Page() {
       <div className="flex items-center justify-between px-10 py-6">
         <div className="flex items-center gap-3">
           <div className="w-8 h-8 bg-blue-600 rounded-lg" />
-          <span className="font-semibold text-lg">CompanyBrand</span>
+          <span className="font-semibold text-lg">Jewel E Market</span>
         </div>
         <h1 className="text-sm text-slate-600 tracking-wide">
-          PRODUCT ONBOARDING AUTOMATOR
+          PRODUCT ONBOARDING AUTOMATOR STATUS
         </h1>
         <div />
       </div>
